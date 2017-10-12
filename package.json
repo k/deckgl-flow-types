@@ -1,0 +1,16 @@
+{
+  "name": "deckgl-flow-types",
+  "version": "0.0.1",
+  "description": "Flow type definitions for deck.gl",
+  "main": "index.js",
+  "repository": "https://github.com/k/deckgl-flow-types",
+  "author": "Kenneth Bambridge",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@aot/geojson-flow": "^1.1.0",
+    "@k/geojson-flow": "^1.0.1",
+    "flow-bin": "^0.56.0",
+    "react": "^15.0.0"
+  }
+}
